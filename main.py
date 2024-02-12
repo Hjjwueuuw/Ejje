@@ -12,15 +12,15 @@ from long_time import long_time
 #from proxy_scrape import http_proxies, start_scrap
 api_id = 20331403
 api_hash = '85124e7aef89185e581aa2169f974dcf'
-token = "6825713336:AAEow6zhbAiVqtjmvJOKnhYUPZfwguAPm0U"
+token = "6890441180:AAHaSFDb4psjpiVhTWVyEH-nHaEMMZUpNMw"
 bot = Client("Bot", bot_token=token, api_hash=api_hash, api_id=api_id)
 dev = 5795394157
 admins = [5795394157, 5795394157]
 stats = []
 force_stop = []
 threads_num = 3
-api_id = 
-api_hash = ''
+api_id = 20331403
+api_hash = '6890441180:AAHaSFDb4psjpiVhTWVyEH-nHaEMMZUpNMw'
 
 
 def dump(data):
