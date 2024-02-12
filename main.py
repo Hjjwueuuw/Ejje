@@ -19,8 +19,8 @@ admins = [5795394157, 5795394157]
 stats = []
 force_stop = []
 threads_num = 3
-api_id = 25776921
-api_hash = '1118f21d2d7c467ce1530e6461393e4a'
+api_id = 20331403
+api_hash = '85124e7aef89185e581aa2169f974dcf'
 
 
 def dump(data):
